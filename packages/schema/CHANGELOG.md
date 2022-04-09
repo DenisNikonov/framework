@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.1.1](https://github.com/nuxt/framework/compare/@nuxt/schema@3.1.0...@nuxt/schema@3.1.1) (2022-04-09)
+
+**Note:** Version bump only for package @nuxt/schema
+
+
+
+
+
 # 3.1.0 (2022-04-09)
 
 
