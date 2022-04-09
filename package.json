@@ -2,6 +2,7 @@
   "name": "nuxt-framework",
   "license": "MIT",
   "type": "module",
+  "version": "0.0.1",
   "workspaces": [
     "packages/*",
     "examples/*/*",
