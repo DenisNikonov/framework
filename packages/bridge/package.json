@@ -80,5 +80,6 @@
   },
   "installConfig": {
     "hoistingLimits": "workspaces"
-  }
+  },
+  "gitHead": "e927e6ca5967f124e0c8b3549fe14501e828a4cd"
 }
